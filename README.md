@@ -8,7 +8,7 @@ programmed. This game is programmed using a Python library called Pyglet.
 
 Getting Started
 -------------------------------
-You will need to install the latest version of Python and pyglet for this game.
-git clone https://github.com/sadie-codes/Cooked-and-Killed
-pip install pyglet
-py main.py
+You will need to install the latest version of Python and pyglet for this game. <br>
+git clone https://github.com/sadie-codes/Cooked-and-Killed <br>
+pip install pyglet <br>
+py main.py <br>
